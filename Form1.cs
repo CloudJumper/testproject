@@ -18,7 +18,7 @@ namespace testproject
 
         private void Button1Click(object sender, EventArgs e)
         {
-            MessageBox.Show("bla bla bla");
+            MessageBox.Show("Hello there");
         }
     }
 }
